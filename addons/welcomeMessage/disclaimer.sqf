@@ -1,4 +1,5 @@
 ["<t align='left'> <t color='#FF9966'>
+	------------RULES------------ <br />
 	1. No Intentional Team killing. <br /> 
 	2. No Team Stealing. <br /> 
 	3. No Talking on Global. <br />

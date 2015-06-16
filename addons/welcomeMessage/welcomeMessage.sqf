@@ -26,7 +26,6 @@ _text = "
 <t align='center'><t shadow= 1 shadowColor='#000000'>Beacons save for 5 days.</t><br />
 <br />
 <t align='center'><t shadow= 1 shadowColor='#000000'>Have fun and respect other players. Hacking or exploiting will get you banned</t><br />
- <t align='right'><img size='4' shadow = 0 image='mapConfig\logo.paa'/></t>
 <br />
 ";
 

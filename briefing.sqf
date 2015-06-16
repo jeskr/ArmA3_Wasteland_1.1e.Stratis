@@ -7,17 +7,38 @@ if (!hasInterface) exitWith {};
 
 waitUntil {!isNull player};
 
+player createDiarySubject ["serverrules", "Server Rules"];
 player createDiarySubject ["changelog", "Changelog"];
 player createDiarySubject ["addons", "Supported Addons"];
 player createDiarySubject ["keys", "Custom Keys"];
 player createDiarySubject ["credits", "Credits"];
 
 
+player createDiaryRecord ["serverrules",
+[
+"Server Rules",
+"
+<br/> 1.   Hacking or cheating will get you banned.
+<br/> 2.   NO Glitching or Combat logging is allowed it will cause punishment up to permanent ban.
+<br/> 3.   NO blocking or building around Stores or ATM´s is allowed it will cause punishment up to permanent ban.
+<br/> 4.   NO VOIP IN GLOBAL. Use the channels or Teamspeak!
+<br/> 5.   ONLY ENGLISH or DANISH CHATING IS ALLOWED IN GLOBAL.
+<br/> 6.   As Independant NO VOIP IN SIDECHAT is not allowed (Writing is allowed). Use the group channels or Teamspeak!
+<br/> 7.   Using or spamming with loud\long custom sound commands will cause punishment up to permanent ban.
+<br/> 8.   Keep bad language to a minimum. If you have a problem with another player, take it to direct.
+<br/> 9.   Support your team and its objectives. DONT steal from your team mates.
+<br/> 10.  Team killing when you are in BLUFOR or OPFOR is forbidden and punishable. Play as Independent if you want to be free for all.
+<br/> 11.  Respect other players.
+<br/> 12.  Respect the administrators.
+<br/> 13.  In the safezones around generalstores stealing, running over players and destroying/stealing vehicles is NOT allowed.
+"
+]];
 
 player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> [Added] Slit Throat ( live and wounded players )
 <br/> [Updated] Supporters*
 <br/> [Upgraded] Backend to MySQL for more server performance
 <br/> [Added] 2 New Camo's
@@ -48,7 +69,6 @@ player createDiaryRecord ["changelog",
 <br/> [Added] Limited Thermals
 <br/> [Added] UAV Control Restrictions (Owner)
 <br/> [Added] Town spawn Cooldown
-
 "
 ]];
 

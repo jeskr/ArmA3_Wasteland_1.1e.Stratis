@@ -23,7 +23,7 @@ VehicleMenu =
 		["AFV-4 Gorgon ($60,000)", [9],  "", -5, [["expression", format[_EXECscript5,"gorgon.sqf"]]], "1", "1"],
 		["IFV-6a Cheetah AA ($80,000)", [10],  "", -5, [["expression", format[_EXECscript5,"cheetah.sqf"]]], "1", "1"],
 		["M2A1 Slammer ($80,000)", [11],  "", -5, [["expression", format[_EXECscript5,"m2a1slammer.sqf"]]], "1", "1"],
-			["Cancel Airdrop", [13], "", -3, [["expression", ""]], "1", "1"]
+		["Cancel Airdrop", [13], "", -3, [["expression", ""]], "1", "1"]
 ];
 
 SupportsMenu = 
