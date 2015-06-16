@@ -62,7 +62,6 @@ player createDiaryRecord ["addons",
 <br/> Midrange Texture Replacement Pack
 <br/> Community Base Addons RC4 and RC6
 <br/> VTS Weapon Resting
-<br/> Jump on teamspeak or head over to http://www.gamersinc.co.za for download links!
 "
 ]];
 

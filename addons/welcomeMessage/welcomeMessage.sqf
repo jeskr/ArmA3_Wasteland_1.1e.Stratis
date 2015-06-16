@@ -13,13 +13,13 @@ sleep 30;
 	
 _text = "
 <br />
-<t align='center'><t shadow= 1 shadowColor='#000000'><t size='1.2'><t color='#ff0000'>GamersInc. Wasteland Stratis</t></t>
+<t align='center'><t shadow= 1 shadowColor='#000000'><t size='1.2'><t color='#ff0000'>Zombro Wasteland Stratis</t></t>
 <br />
 <t align='center'><t shadow= 1 shadowColor='#000000'>Try different classes ( Insurgent, Sniper, Engineer, Diver, Explosive Specialist, Hazmat Scientist)</t><br /> 
 <br />
 <t align='center'><t shadow= 1 shadowColor='#000000'>Bought, Mission and Airdrop vehicles automatically save between restarts</t><br />
 <br />
-<t align='center'><t shadow= 1 shadowColor='#000000'>Base objects will save for 5 days.</t><br />
+<t align='center'><t shadow= 1 shadowColor='#000000'>Base objects will save for 7 days.</t><br />
 <br />
 <t align='center'><t shadow= 1 shadowColor='#000000'>Vehicle repair or re-arm, speak to the vehicle store owner</t><br />
 <br />

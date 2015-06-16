@@ -39,7 +39,7 @@ if (!isDedicated) then
 	{
 		if (hasInterface) then // Normal player
 		{
-			9999 cutText ["Welcome to GamersInc. A3Wasteland, please wait while your client initializes.", "BLACK", 0.01];
+			9999 cutText ["Welcome to Zombro A3Wasteland, please wait while your client initializes.", "BLACK", 0.01];
 
 			waitUntil {!isNull player};
 			removeAllWeapons player;
@@ -71,6 +71,7 @@ if (isServer) then
 
 //init 3rd Party Scripts
 
+[] execVM "addons\takedown\zod_stakedown_init.sqf"; //takedown
 [] execVM "addons\R3F_LOG\init.sqf";
 [] execVM "addons\proving_ground\init.sqf";
 [] execVM "addons\scripts\DynamicWeatherEffects.sqf";
